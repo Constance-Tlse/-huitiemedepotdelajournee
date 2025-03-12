@@ -1,4 +1,4 @@
-remote
+local
 
 # -huitiemedepotdelajournee
 
