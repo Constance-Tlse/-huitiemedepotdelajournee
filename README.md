@@ -1,4 +1,4 @@
-local
+local c'est buggué
 
 # -huitiemedepotdelajournee
 
